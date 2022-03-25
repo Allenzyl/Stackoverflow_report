@@ -19,5 +19,8 @@ This project focus on the drivers for the compensation.
 * analysis.ipynb: the main analysis code
 
 # Results
-* From the EDA, it's clear that generally speaking, big companies do pay higher compensations. And participate in stack overflow forum do helps. However, it's a little bit counter-intuitive that graduate degree do not guarantee a higher compensations than a bachelor's degree.
-   
+* From the EDA, it's clear that generally speaking, big companies do pay higher compensations. And participate in stack overflow forum do helps. However, it's a little bit counter-intuitive that graduate degree do not guarantee a higher compensations than a bachelor's degree. For detailed reports, please check:
+https://medium.com/@zhangyilun0601/how-to-get-competitive-compensation-as-a-developer-f9700ef4c603
+
+# Acknowledgments
+* The data used for this analysis is the Public 2021 Stack Overflow Developer Survey Results from https://insights.stackoverflow.com/survey
